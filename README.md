@@ -2,7 +2,7 @@ Object Beautifier Pictures
 =================
 
 Images/pictures from:
-1. https://github.com/evandrocoan/ObjectBeautifier
+1. https://github.com/evandrocoan/ObjectBeauty
 
 This is in a separate repository because images in git repositories take up a lot of space and
 should not be used.
